@@ -116,7 +116,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: visit my studio
         url: /projects
     showDate: false
     showDescription: true
