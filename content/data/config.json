@@ -36,6 +36,14 @@
                 "type": "Social",
                 "label": "Facebook",
                 "altText": "",
+                "url": "https://www.facebook.com/profile.php?id=61561628670006",
+                "icon": "facebook",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
                 "url": "/",
                 "icon": "facebook",
                 "elementId": ""
