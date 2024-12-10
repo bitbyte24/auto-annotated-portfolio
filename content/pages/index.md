@@ -51,7 +51,7 @@ sections:
           textAlign: left
     media:
       type: ImageBlock
-      url: /images/contact.jpg
+      url: /images/1.jpg
       altText: Contact form image
       caption: Caption of the image
       elementId: ''
