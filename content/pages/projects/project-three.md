@@ -4,7 +4,7 @@ title: One more cool project
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: ''
+description: i finally included her
 featuredImage:
   type: ImageBlock
   url: /images/one.jpg
